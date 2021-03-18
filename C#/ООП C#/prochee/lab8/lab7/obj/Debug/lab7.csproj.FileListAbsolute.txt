@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\ООПлаб\lab7\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\Denis\Desktop\ООПлаб\lab7\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Denis\Desktop\ООПлаб\lab7\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Denis\Desktop\ООПлаб\lab7\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\ООПлаб\lab7\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\Denis\Desktop\ООПлаб\lab7\lab7\lab7\obj\Debug\lab7.pdb
+C:\Users\User\Desktop\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\User\Desktop\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\User\Desktop\lab7\lab7\obj\Debug\lab7.pdb
+C:\Users\User\Desktop\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\User\Desktop\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\User\Desktop\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache

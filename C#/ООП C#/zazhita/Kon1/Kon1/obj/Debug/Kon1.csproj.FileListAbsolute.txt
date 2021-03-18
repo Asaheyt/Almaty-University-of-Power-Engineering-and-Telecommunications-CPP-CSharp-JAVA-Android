@@ -1,0 +1,6 @@
+c:\users\нео\documents\visual studio 2015\Projects\Kon1\Kon1\bin\Debug\Kon1.exe.config
+c:\users\нео\documents\visual studio 2015\Projects\Kon1\Kon1\bin\Debug\Kon1.exe
+c:\users\нео\documents\visual studio 2015\Projects\Kon1\Kon1\bin\Debug\Kon1.pdb
+c:\users\нео\documents\visual studio 2015\Projects\Kon1\Kon1\obj\Debug\Kon1.csprojResolveAssemblyReference.cache
+c:\users\нео\documents\visual studio 2015\Projects\Kon1\Kon1\obj\Debug\Kon1.exe
+c:\users\нео\documents\visual studio 2015\Projects\Kon1\Kon1\obj\Debug\Kon1.pdb

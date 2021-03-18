@@ -1,0 +1,36 @@
+C:\Users\Denis\Desktop\ООПлаб\lab10\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\Denis\Desktop\ООПлаб\lab10\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\Denis\Desktop\ООПлаб\lab10\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\Denis\Desktop\ООПлаб\lab10\lab10\lab10\obj\Debug\lab10.MyForm.resources
+C:\Users\Denis\Desktop\ООПлаб\lab10\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\Denis\Desktop\ООПлаб\lab10\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\ООПлаб\lab10\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\Denis\Desktop\ООПлаб\lab10\lab10\lab10\obj\Debug\lab10.pdb
+C:\Users\Denis\Desktop\ООПлаб\lab10\lab10\lab10\obj\Debug\lab10.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\lab10Влад\lab10\bin\Debug\lab10.exe.config
+C:\Users\User\Desktop\lab10Влад\lab10\obj\Debug\lab10.exe
+C:\Users\User\Desktop\lab10Влад\lab10\obj\Debug\lab10.pdb
+C:\Users\User\Desktop\lab10Влад\lab10\bin\Debug\lab10.exe
+C:\Users\User\Desktop\lab10Влад\lab10\bin\Debug\lab10.pdb
+C:\Users\User\Desktop\lab10Влад\lab10\obj\Debug\lab10.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\lab10Влад\lab10\obj\Debug\lab10.MyForm.resources
+C:\Users\User\Desktop\lab10Влад\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\User\Desktop\lab10Влад\lab10\obj\Debug\lab10.csproj.GenerateResource.Cache
+C:\Users\Влад\Desktop\програмирование (лаб)\lab10Влад\lab10\bin\Debug\lab10.exe.config
+C:\Users\Влад\Desktop\програмирование (лаб)\lab10Влад\lab10\obj\Debug\lab10.exe
+C:\Users\Влад\Desktop\програмирование (лаб)\lab10Влад\lab10\obj\Debug\lab10.pdb
+C:\Users\Влад\Desktop\програмирование (лаб)\lab10Влад\lab10\bin\Debug\lab10.exe
+C:\Users\Влад\Desktop\програмирование (лаб)\lab10Влад\lab10\bin\Debug\lab10.pdb
+C:\Users\Влад\Desktop\програмирование (лаб)\lab10Влад\lab10\obj\Debug\lab10.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\програмирование (лаб)\lab10Влад\lab10\obj\Debug\lab10.MyForm.resources
+C:\Users\Влад\Desktop\програмирование (лаб)\lab10Влад\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\Влад\Desktop\програмирование (лаб)\lab10Влад\lab10\obj\Debug\lab10.csproj.GenerateResource.Cache
+F:\lab10Влад\lab10\bin\Debug\lab10.exe.config
+F:\lab10Влад\lab10\obj\Debug\lab10.exe
+F:\lab10Влад\lab10\obj\Debug\lab10.pdb
+F:\lab10Влад\lab10\bin\Debug\lab10.exe
+F:\lab10Влад\lab10\bin\Debug\lab10.pdb
+F:\lab10Влад\lab10\obj\Debug\lab10.csprojResolveAssemblyReference.cache
+F:\lab10Влад\lab10\obj\Debug\lab10.MyForm.resources
+F:\lab10Влад\lab10\obj\Debug\lab10.Properties.Resources.resources
+F:\lab10Влад\lab10\obj\Debug\lab10.csproj.GenerateResource.Cache

@@ -1,0 +1,185 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace lab7_a_ {
+    class MyForm:Form {
+        private Programer a = null;
+
+        public Programer Programer { private set; get; }
+
+        private IndexForm index1;
+
+        private Label iohl;
+        private Label dir;
+        private Label cat;
+        private TextBox tIOHL;
+        private TextBox tDir;
+        private TextBox tCat;
+
+        private Button ok;
+        private Button cancel;
+
+        DataGridView DataGrd = new DataGridView();
+        DataTable dtable = new DataTable();
+        
+
+        public MyForm(IndexForm index1) {
+            this.index1 = index1; 
+
+            this.Text = "Новый прог.";
+            this.Size = new Size(250, 400);
+            this.CenterToParent();
+
+            iohl = new Label();
+            iohl.Parent = this;
+            iohl.Text = "ВУЗ:";
+            iohl.BorderStyle = BorderStyle.None;
+            iohl.Location = new Point(10, 10);
+
+            dir = new Label();
+            dir.Parent = this;
+            dir.Text = "Направление:";
+            dir.BorderStyle = BorderStyle.None;
+            dir.Location = new Point(10, 60);
+
+            cat = new Label();
+            cat.Parent = this;
+            cat.Text = "Категория:";
+            cat.BorderStyle = BorderStyle.None;
+            cat.Location = new Point(10, 110);
+
+            tIOHL = new TextBox();
+            tIOHL.Parent = this;
+            tIOHL.Location = new Point(10, 35);
+            tIOHL.KeyDown += TIOHL_KeyDown;
+
+            tDir = new TextBox();
+            tDir.Parent = this;
+            tDir.Location = new Point(10, 85);
+
+            tCat = new TextBox();
+            tCat.Parent = this;
+            tCat.Location = new Point(10, 135);
+
+            ok = new Button();
+            ok.Parent = this;
+            ok.Text = "OK";
+            ok.Location = new Point(10, 300);
+            ok.Click += new EventHandler(OK_Click);
+
+            cancel = new Button();
+            cancel.Parent = this;
+            cancel.Text = "Cancel";
+            cancel.Location = new Point(130, 100);
+            cancel.Click += new EventHandler(Cancel_Click);
+
+
+            this.FormClosing += new FormClosingEventHandler(E_Close);
+        }
+
+      
+
+        private void TIOHL_KeyDown(object sender, EventArgs e)
+        {
+            /*bool OK = false;
+            if ((tIOHL.Text[tIOHL.TextLength - 1] >= 'A' && tIOHL.Text[tIOHL.TextLength - 1] <= 'Z') || (tIOHL.Text[tIOHL.TextLength - 1] >= 'a' && tIOHL.Text[tIOHL.TextLength - 1] <= 'z') || (tIOHL.Text[tIOHL.TextLength - 1] >= 'А' && tIOHL.Text[tIOHL.TextLength - 1] <= 'Я') || (tIOHL.Text[tIOHL.TextLength - 1] >= 'а' && tIOHL.Text[tIOHL.TextLength - 1] <= 'я') || (tIOHL.TextLength - 1 != 0 && tIOHL.Text[tIOHL.TextLength - 1] == ' '))
+            {
+                OK = true;
+            }
+            else { OK = false; tIOHL.Clear(); }*/
+        }
+
+
+
+        private void E_Close(object sender, EventArgs arg) {
+            for (int i = 0; i < index1.Controls.Count; i++)
+            {
+                index1.Controls[i].Enabled = true;
+            }
+        }
+
+        private void OK_Click(object sender, EventArgs arg) {
+            try
+            {
+
+                a = new Programer();
+                bool OK = false;
+               
+                    for (int j = 0; j < tIOHL.Text.Length; j++)
+                    {
+                        if ((tIOHL.Text[j] >= 'A' && tIOHL.Text[j] <= 'Z') || (tIOHL.Text[j] >= 'a' && tIOHL.Text[j] <= 'z') || (tIOHL.Text[j] >= 'А' && tIOHL.Text[j] <= 'Я') || (tIOHL.Text[j] >= 'а' && tIOHL.Text[j] <= 'я') || (j != 0 && tIOHL.Text[j] == ' '))
+                        {
+                            OK = true;
+                        }
+                        else { OK=false;break; }
+                    }
+                    if (OK == false) { throw new StringException("Введен некорректный ВУЗ!"); }
+                OK = false;
+                for (int j = 0; j < tDir.Text.Length; j++)
+                {
+                    if ((tDir.Text[j] >= 'A' && tDir.Text[j] <= 'Z') || (tDir.Text[j] >= 'a' && tDir.Text[j] <= 'z') || (tDir.Text[j] >= 'А' && tDir.Text[j] <= 'Я') || (tDir.Text[j] >= 'а' && tDir.Text[j] <= 'я') || (j != 0 && tDir.Text[j] == ' '))
+                    {
+                        OK = true;
+                    }
+                    else { OK = false; break; }
+                }
+                if (OK == false) { throw new StringException("Введен некорректное Направление!"); }
+                OK = false;
+                for (int j = 0; j < tCat.Text.Length; j++)
+                {
+                    if (tCat.Text[j] >= 0 && tCat.Text[j] <= 9)
+                    {
+                        OK = true;
+                    }
+                    else { OK = false; break; }
+                }
+                if (OK == false) { throw new IntException("Введен некорректная Категория!"); }
+
+                a.SetInstitute_of_high_learning( tIOHL.Text);
+                a.SetDirection(tDir.Text);
+                a.SetCategory(Convert.ToInt32(tCat.Text));
+
+                index1.t.Add(a);
+
+                this.Close();
+                for (int i = 0; i < index1.Controls.Count; i++)
+                {
+                    index1.Controls[i].Enabled = true;
+                }
+            }
+            catch (StringException e)
+            {
+                MessageBox.Show(e.Message);
+            }
+            catch (IntException e)
+            {
+                MessageBox.Show(e.Message);
+            }
+            catch (FormatException e)
+            {
+                MessageBox.Show(e.Message);
+            }
+        }
+
+        private void Cancel_Click(object sender, EventArgs arg) {
+            this.Close();
+            for (int i = 0; i < index1.Controls.Count; i++)
+            {
+                index1.Controls[i].Enabled = true;
+            }
+        }
+        public void setDtable() {
+            dtable.Columns.Add(new DataColumn("#", Type.GetType("Int32")));
+
+        }
+        public void setDataGrd() {
+            DataGrd.DataSource = dtable;
+        }
+    }
+}

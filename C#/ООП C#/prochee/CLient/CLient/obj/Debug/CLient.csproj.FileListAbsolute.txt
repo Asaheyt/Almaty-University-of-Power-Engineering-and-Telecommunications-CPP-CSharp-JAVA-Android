@@ -1,0 +1,6 @@
+c:\users\нео\documents\visual studio 2015\Projects\CLient\CLient\bin\Debug\CLient.exe.config
+c:\users\нео\documents\visual studio 2015\Projects\CLient\CLient\bin\Debug\CLient.exe
+c:\users\нео\documents\visual studio 2015\Projects\CLient\CLient\bin\Debug\CLient.pdb
+c:\users\нео\documents\visual studio 2015\Projects\CLient\CLient\obj\Debug\CLient.exe
+c:\users\нео\documents\visual studio 2015\Projects\CLient\CLient\obj\Debug\CLient.pdb
+C:\Users\нео\documents\visual studio 2015\Projects\CLient\CLient\obj\Debug\CLient.csprojResolveAssemblyReference.cache

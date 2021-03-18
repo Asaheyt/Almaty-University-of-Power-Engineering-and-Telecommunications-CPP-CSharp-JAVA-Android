@@ -1,0 +1,19 @@
+c:\users\home\documents\visual studio 2015\Projects\1212\1212\bin\Debug\1212.exe.config
+c:\users\home\documents\visual studio 2015\Projects\1212\1212\bin\Debug\1212.exe
+c:\users\home\documents\visual studio 2015\Projects\1212\1212\bin\Debug\1212.pdb
+c:\users\home\documents\visual studio 2015\Projects\1212\1212\obj\Debug\1212.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\1212\1212\obj\Debug\1212.exe
+c:\users\home\documents\visual studio 2015\Projects\1212\1212\obj\Debug\1212.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\1212\1212\obj\Debug\_1212.MyForm.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\1212\1212\obj\Debug\1212.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\1212\1212\bin\Debug\1212.exe.config
+C:\Users\Home\Desktop\1212\1212\obj\Debug\1212.exe
+C:\Users\Home\Desktop\1212\1212\obj\Debug\1212.pdb
+C:\Users\Home\Desktop\1212\1212\bin\Debug\1212.exe
+C:\Users\Home\Desktop\1212\1212\bin\Debug\1212.pdb
+C:\Users\Home\Desktop\1212\1212\obj\Debug\1212.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\1212\1212\obj\Debug\_1212.MyForm.resources
+C:\Users\Home\Desktop\1212\1212\obj\Debug\1212.csproj.GenerateResource.Cache
+C:\Users\нео\Documents\Visual Studio 2015\Projects\1212\1212\bin\Debug\1212.exe.config
+C:\Users\нео\Documents\Visual Studio 2015\Projects\1212\1212\obj\Debug\1212.exe
+C:\Users\нео\Documents\Visual Studio 2015\Projects\1212\1212\obj\Debug\1212.pdb

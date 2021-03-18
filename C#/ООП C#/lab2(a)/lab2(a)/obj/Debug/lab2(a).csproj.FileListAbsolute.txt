@@ -1,0 +1,6 @@
+c:\users\нео\documents\visual studio 2015\Projects\lab2(a)\lab2(a)\bin\Debug\lab2(a).exe.config
+C:\Users\нео\Documents\Visual Studio 2015\Projects\lab2(a)\lab2(a)\bin\Debug\lab2(a).exe
+C:\Users\нео\Documents\Visual Studio 2015\Projects\lab2(a)\lab2(a)\bin\Debug\lab2(a).pdb
+C:\Users\нео\Documents\Visual Studio 2015\Projects\lab2(a)\lab2(a)\obj\Debug\lab2(a).csprojResolveAssemblyReference.cache
+C:\Users\нео\Documents\Visual Studio 2015\Projects\lab2(a)\lab2(a)\obj\Debug\lab2(a).exe
+C:\Users\нео\Documents\Visual Studio 2015\Projects\lab2(a)\lab2(a)\obj\Debug\lab2(a).pdb

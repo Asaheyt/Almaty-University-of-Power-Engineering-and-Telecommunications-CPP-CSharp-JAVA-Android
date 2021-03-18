@@ -1,0 +1,12 @@
+C:\Users\Влад\Desktop\програмирование (лаб)\klient\klient\bin\Debug\klient.exe.config
+C:\Users\Влад\Desktop\програмирование (лаб)\klient\klient\bin\Debug\klient.exe
+C:\Users\Влад\Desktop\програмирование (лаб)\klient\klient\bin\Debug\klient.pdb
+C:\Users\Влад\Desktop\програмирование (лаб)\klient\klient\obj\Debug\klient.exe
+C:\Users\Влад\Desktop\програмирование (лаб)\klient\klient\obj\Debug\klient.pdb
+C:\Users\Влад\Desktop\програмирование (лаб)\klient\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache
+C:\Users\нео\Documents\Visual Studio 2015\Projects\klient\klient\bin\Debug\klient.exe.config
+C:\Users\нео\Documents\Visual Studio 2015\Projects\klient\klient\obj\Debug\klient.exe
+C:\Users\нео\Documents\Visual Studio 2015\Projects\klient\klient\obj\Debug\klient.pdb
+C:\Users\нео\Documents\Visual Studio 2015\Projects\klient\klient\bin\Debug\klient.exe
+C:\Users\нео\Documents\Visual Studio 2015\Projects\klient\klient\bin\Debug\klient.pdb
+C:\Users\нео\Documents\Visual Studio 2015\Projects\klient\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache

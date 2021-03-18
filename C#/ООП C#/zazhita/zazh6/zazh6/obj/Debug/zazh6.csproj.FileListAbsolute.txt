@@ -1,0 +1,6 @@
+c:\users\нео\documents\visual studio 2015\Projects\zazh6\zazh6\bin\Debug\zazh6.exe.config
+c:\users\нео\documents\visual studio 2015\Projects\zazh6\zazh6\obj\Debug\zazh6.csprojResolveAssemblyReference.cache
+c:\users\нео\documents\visual studio 2015\Projects\zazh6\zazh6\bin\Debug\zazh6.exe
+c:\users\нео\documents\visual studio 2015\Projects\zazh6\zazh6\bin\Debug\zazh6.pdb
+c:\users\нео\documents\visual studio 2015\Projects\zazh6\zazh6\obj\Debug\zazh6.exe
+c:\users\нео\documents\visual studio 2015\Projects\zazh6\zazh6\obj\Debug\zazh6.pdb

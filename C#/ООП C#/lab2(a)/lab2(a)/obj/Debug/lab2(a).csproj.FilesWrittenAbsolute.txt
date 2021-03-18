@@ -1,0 +1,2 @@
+/media/sf_lab2(a)/lab2(a)/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/media/sf_lab2(a)/lab2(a)/obj/Debug/lab2(a).exe

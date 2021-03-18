@@ -1,0 +1,6 @@
+c:\users\нео\documents\visual studio 2015\Projects\lab6(a)\lab6(a)\bin\Debug\lab6(a).exe.config
+c:\users\нео\documents\visual studio 2015\Projects\lab6(a)\lab6(a)\bin\Debug\lab6(a).exe
+c:\users\нео\documents\visual studio 2015\Projects\lab6(a)\lab6(a)\bin\Debug\lab6(a).pdb
+c:\users\нео\documents\visual studio 2015\Projects\lab6(a)\lab6(a)\obj\Debug\lab6(a).csprojResolveAssemblyReference.cache
+c:\users\нео\documents\visual studio 2015\Projects\lab6(a)\lab6(a)\obj\Debug\lab6(a).exe
+c:\users\нео\documents\visual studio 2015\Projects\lab6(a)\lab6(a)\obj\Debug\lab6(a).pdb
