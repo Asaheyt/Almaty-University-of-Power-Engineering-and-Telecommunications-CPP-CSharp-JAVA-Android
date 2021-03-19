@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S.V.A.P", "WindowsFormsApp1\S.V.A.P.csproj", "{CB050667-288D-412A-A44A-FCDF9F9736E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A52D9873-6126-4B65-A5A2-8A2EFF333260}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\WARNING\aues.ico = ..\..\WARNING\aues.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB050667-288D-412A-A44A-FCDF9F9736E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB050667-288D-412A-A44A-FCDF9F9736E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB050667-288D-412A-A44A-FCDF9F9736E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB050667-288D-412A-A44A-FCDF9F9736E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1085B27F-C73A-47DC-AE3D-9DFD1EAE1496}
+	EndGlobalSection
+EndGlobal

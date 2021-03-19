@@ -1,0 +1,11 @@
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\S.V.A.P.csprojAssemblyReference.cache
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\S.V.A.P.csproj.ResolveComReference.cache
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\S.V.A.P.csproj.GenerateResource.cache
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\S.V.A.P.csproj.CoreCompileInputs.cache
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\&АУЭС\Проект\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
